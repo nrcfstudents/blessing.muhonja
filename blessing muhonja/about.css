@@ -1,0 +1,38 @@
+body{
+	font-family: monospace;
+	margin:50PX;
+	padding: 0;
+}
+.row{
+     display: flex;
+     justify-content: space-between;
+}
+.facts{
+	   font-size: 50px;
+	   text-align: left;
+}
+.skills{
+	    font-size: 30px;
+}
+.about{
+	   padding: 50px;
+	   text-align: center;
+	   background-color: purple;
+	   color: white;
+}
+.container{
+	       padding: 0 16px;
+}
+.column,.row{
+	         border:2px ;
+}
+.column{
+	    padding: 10px;
+	    width: 100%;
+}
+.img{
+	 width: 50px;
+     height: auto;
+}	
+
+
